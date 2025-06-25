@@ -1,0 +1,10 @@
+.terminal {
+    background-color: #222;
+    color: #33ff33;
+    font-family: 'Fira Mono', 'Consolas', monospace;
+    padding: 2rem;
+    border-radius: 0.6rem;
+    width: 60%;
+    margin: 1rem auto;
+    box-shadow: 0 0.1rem 1.2rem #0008;
+}
