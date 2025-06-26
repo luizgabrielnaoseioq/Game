@@ -8,3 +8,28 @@
     margin: 1rem auto;
     box-shadow: 0 0.1rem 1.2rem #0008;
 }
+
+
+.terminal-line {
+    margin-bottom: 1rem;
+    display: flex;
+}
+
+.terminal-line span:nth-of-type(1){
+    color: red;
+}
+
+.terminal-line span:nth-of-type(3){
+    color: yellow;
+}
+
+.terminal-input {
+    background-color: #222;
+    color: #33ff33;
+    border: 1px solid #222;
+    font: inherit;
+    margin-left: 3px;
+    outline: none;
+    width: 100%;
+    font-size: 14px;
+}
